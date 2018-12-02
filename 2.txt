@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git push
+=======
+git pull command checking
+>>>>>>> 0c03948d57f9071acde773b20ee610968d64743a
